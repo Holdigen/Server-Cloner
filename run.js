@@ -10,7 +10,7 @@ function wait(seconds) {
     });
 }
 function debugLog(message) {
-    console.log(`[ hold4564 Server Cloner ] - ${message}`)
+    console.log(`[ Holdigen Server Cloner ] - ${message}`)
 }
 
 // main function
@@ -142,8 +142,11 @@ async function cloneServer() {
 }
 
 // clone server
-debugLog("My discord: hold_4564");
+debugLog("My Github: Holdigen");
 cloneServer();
+
+
+// TODO:
 
 // fix bugs with creating roles (some times it doesn't work)
 // fix permissions for @everyone role, when identifying it
