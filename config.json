@@ -1,0 +1,6 @@
+{
+    "discordToken": "YOUR_DISCORD_TOKEN",
+    "guildIdToCopyServer": "TARGET_SERVER_ID",
+    "guildIdToBeTransferedTo": "YOUR_SERVER_ID",
+    "delay": 0.1
+}
